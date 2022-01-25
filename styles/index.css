@@ -1,1 +1,43 @@
 html
+
+h1{
+    color: darkmagenta;
+    font-size: 40px;
+    font-weight: 600;
+    font-style: oblique;
+    text-align: center;
+    background-color: pink;
+
+}
+
+
+#Frontend Developer section{
+    color:crimson;
+}
+
+/*innehållet i kursen är ljusrosa*/
+
+.target-group{
+    color: darkmagenta;
+    /*opacity: 0.5;*/
+    background-color: rgb(red, green, blue)
+}
+
+img{
+    border-width: 10px;
+    border-style: solid;
+    border-color: crimson;
+    border-top: 10 px solid pink;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px crimson;
+}
+
+
+body{
+    background-image: url(../images/rosa\ blommor.jpg);
+    background-repeat: no-repreat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height:100vh
+}
