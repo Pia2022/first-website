@@ -20,14 +20,14 @@ h1{
 .target-group{
     color: darkmagenta;
     /*opacity: 0.5;*/
-    background-color: rgb(red, green, blue)
+    background-color: rgb
 }
 
 img{
     border-width: 10px;
     border-style: solid;
     border-color: crimson;
-    border-top: 10 px solid pink;
+    border-top: 10px solid pink;
     border-radius: 20px;
     box-shadow: 10px 10px 20px crimson;
 }
@@ -35,9 +35,9 @@ img{
 
 body{
     background-image: url(../images/rosa\ blommor.jpg);
-    background-repeat: no-repreat;
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    height:100vh
+    height:100vh;
 }
